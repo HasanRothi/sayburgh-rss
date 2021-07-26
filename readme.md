@@ -14,7 +14,7 @@
 #### Create a new feed
 
 ```js
-var RSS = require('rss');
+var RSS = require('sayburgh-rss');
 
 var feed = new RSS(feedOptions);
 ```
